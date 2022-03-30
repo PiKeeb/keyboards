@@ -1,0 +1,15 @@
+{
+  "name": "DHYBS",
+  "vendorId": "0x494C",
+  "productId": "0x4253",
+  "lighting": "qmk_rgblight",
+  "matrix": {
+    "rows": 1,
+    "cols": 1
+  },
+  "layouts": {
+    "keymap": [
+      [{"w":4,"h":4},"0,0"]
+    ]
+  }
+}
